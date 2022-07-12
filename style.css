@@ -2,3 +2,17 @@
     background-color: purple;
     color: white;
 }
+.icon-home{
+    font-size: 30px;
+    color: blue;
+}
+.icon-delete{
+    font-size: 30px;
+    color: Red;
+    margin-left: 1%;
+}
+.icon-edit{
+    font-size: 30px;
+    color: grey;
+    margin-left: 1%;
+}
