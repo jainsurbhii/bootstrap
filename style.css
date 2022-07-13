@@ -16,3 +16,43 @@
     color: grey;
     margin-left: 1%;
 }
+.fb{
+    font-size: 30px;
+    color: blue;
+    margin-left: 1%;
+}
+#first{
+    height: 100px;
+    background-color: steelblue;
+    width: 100%;
+}
+#second{
+    height: 100px;
+    background-color: #a1c68d;
+    width: 100%;
+}
+#third{
+    height: 100px;
+    background-color: #cda0ad;
+    width: 100%;
+}
+#fourth{
+    height: 100px;
+    background-color: #c99269;
+    width: 100%;
+}
+#fifth{
+    height: 100px;
+    background-color: #abeed3;
+    width: 100%;
+}
+#six{
+    height: 100px;
+    background-color: #828486;
+    width: 100%;
+}
+#seven{
+    height: 100px;
+    background-color: #586b9c;
+    width: 100%;
+}
